@@ -17,4 +17,6 @@ Lexing Xie, The Australian National University; Data61, CSIRO
 
 5.  https://stmorse.github.io/journal/Hawkes-python.html - a very good blog to start reading about Hawkes process
 
+6.  Simulation, Estimation and Applications of Hawkes Processes - Master Thesis by Katarzyna Obral, UMN Duluth
+
 5.  Hongyuan Mei and Jason Eisner. 2017. The neural hawkes process: a neurally self-modulating multivariate point process. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17), Ulrike von Luxburg, Isabelle Guyon, Samy Bengio, Hanna Wallach, and Rob Fergus (Eds.). Curran Associates Inc., USA, 6757-6767.
