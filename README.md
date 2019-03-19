@@ -19,4 +19,6 @@ Lexing Xie, The Australian National University; Data61, CSIRO
 
 6.  Simulation, Estimation and Applications of Hawkes Processes - Master Thesis by Katarzyna Obral, UMN Duluth
 
-5.  Hongyuan Mei and Jason Eisner. 2017. The neural hawkes process: a neurally self-modulating multivariate point process. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17), Ulrike von Luxburg, Isabelle Guyon, Samy Bengio, Hanna Wallach, and Rob Fergus (Eds.). Curran Associates Inc., USA, 6757-6767.
+7.  https://www.youtube.com/watch?v=1ntW2vJSQWE - KDD lecture by Dr. Nan Du from GaTech on Recurrent Marked Temporal Point Process
+
+7.  Hongyuan Mei and Jason Eisner. 2017. The neural hawkes process: a neurally self-modulating multivariate point process. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17), Ulrike von Luxburg, Isabelle Guyon, Samy Bengio, Hanna Wallach, and Rob Fergus (Eds.). Curran Associates Inc., USA, 6757-6767.
