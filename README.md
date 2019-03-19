@@ -1,5 +1,5 @@
-# Prediction-of-student-dropout-using-semi-parametric-cum-machine-learning-based-methodologies
-Figuring out best technique to predict useful churn prediction problems like student drop out from school
+# Curious case of intersection of machine learning and Hawkes Processes
+Figuring out best technique to predict useful prediction of type and time of activity in a series of activities
 
 Research articles and online articles read till now:
 
