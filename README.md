@@ -21,4 +21,6 @@ Lexing Xie, The Australian National University; Data61, CSIRO
 
 7.  https://www.youtube.com/watch?v=1ntW2vJSQWE - KDD lecture by Dr. Nan Du from GaTech on Recurrent Marked Temporal Point Process
 
+8.  Nan Du, Hanjun Dai, Rakshit Trivedi, Utkarsh Upadhyay, Manuel Gomez-Rodriguez, and Le Song. 2016. Recurrent Marked Temporal Point Processes: Embedding Event History to Vector. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '16). ACM, New York, NY, USA, 1555-1564. DOI: https://doi.org/10.1145/2939672.2939875
+
 7.  Hongyuan Mei and Jason Eisner. 2017. The neural hawkes process: a neurally self-modulating multivariate point process. In Proceedings of the 31st International Conference on Neural Information Processing Systems (NIPS'17), Ulrike von Luxburg, Isabelle Guyon, Samy Bengio, Hanna Wallach, and Rob Fergus (Eds.). Curran Associates Inc., USA, 6757-6767.
