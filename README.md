@@ -1,4 +1,4 @@
-# Curious case of intersection of machine learning and Hawkes Processes
+# Curious case of intersection of machine learning and Point Processes
 Figuring out best technique to predict useful prediction of type and time of activity in a series of activities
 
 Research articles and online articles read till now:
